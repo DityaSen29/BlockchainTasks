@@ -1,4 +1,3 @@
-// Import the necessary modules
 const { ethers } = require("ethers");
 require("dotenv").config(); 
 
